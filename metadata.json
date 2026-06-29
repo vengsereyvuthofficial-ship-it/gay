@@ -1,0 +1,6 @@
+{
+  "name": "Orientation Scanner",
+  "description": "A humorous meme application that simulates a deep quantum scan with mock downloading phases to playfully reveal orientation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
